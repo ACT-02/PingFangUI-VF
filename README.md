@@ -1,5 +1,5 @@
 # PingFangUI-VF
-New PingFang UI font from iOS 18 / macOS 15 Sequoia. Processed by @alphaArgon.
+iOS 18 / macOS 15 Sequoia / ... 新增的苹方 VF。字体数据处理、该 Readme 文档主笔皆由 GitHub 用户 @alphaArgon 完成。
 
 # 关于苹方可变的说明
 
